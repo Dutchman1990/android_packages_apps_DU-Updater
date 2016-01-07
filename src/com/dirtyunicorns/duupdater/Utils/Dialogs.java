@@ -14,14 +14,14 @@
 * limitations under the License.
 */
 
-package com.dirtyunicorns.duupdater.Utils;
+package com.beanstalk.beanupdater.Utils;
 
 import android.app.AlertDialog;
 import android.app.ProgressDialog;
 import android.content.Context;
 import android.content.DialogInterface;
 
-import com.dirtyunicorns.duupdater.R;
+import com.beanstalk.beanupdater.R;
 
 /**
  * Created by mazwoz on 28.02.15.
